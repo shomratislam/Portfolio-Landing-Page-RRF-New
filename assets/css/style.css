@@ -54,3 +54,8 @@ html {
         height: 200px;
       }
 }
+@media (max-width: 1390px) {
+    .footer_circle{
+      display: none;
+    }
+}
